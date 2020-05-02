@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @Author: WireChen
- * @Date: Created in 下午5:02 2018/3/16
+ * @Author: medal
+ * @Date: Created in 下午5:02 2020/5/02
  * @Description:
  */
 @RestController
