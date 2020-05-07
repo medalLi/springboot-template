@@ -34,13 +34,11 @@ public class User {
 	@Column(name = "port")
 	private String port; // 端口
 
-
 	@Column(name = "user")
 	private String user; // 用户名
 
 	@Column(name = "passwd")
 	private String password; // 密码
-
 
 	@LastModifiedDate
     @Column(name = "last_update_time" )
